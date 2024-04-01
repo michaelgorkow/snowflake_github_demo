@@ -1,0 +1,13 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - fastparquet=2023.8.0
+  - matplotlib=3.7.2
+  - python=3.8.*
+  - seaborn=0.12.2
+  - snowbooks=1.22.*
+  - snowflake-ml-python=1.2.3
+  - snowflake-snowpark-python=
+  - snowflake.core=0.5.1
+  - streamlit=1.22.0
