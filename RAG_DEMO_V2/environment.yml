@@ -1,0 +1,11 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - langchain=0.0.298
+  - pycryptodome=3.15.0
+  - pypdf2=2.10.5
+  - python=3.8.*
+  - snowbooks=1.20.*
+  - snowflake-snowpark-python=
+  - streamlit=1.22.0
